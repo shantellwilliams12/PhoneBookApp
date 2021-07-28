@@ -1,1 +1,3 @@
 # PhoneBookApp
+
+My project is a phonebook console application where you can add, view, and search for contacts. The three features I have added to this project are creating a "master loop” console application where the user can repeatedly perform actions, including choosing to exit the program. Also implenting a regular expression (regex) to ensure a field either a phone number or an email address is always stored and displayed in the same format. Lastly calculating and displaying data based on an external factor, for example when you add a contact the application will provide you with the time & date the contact was added to phonebook.
